@@ -1,0 +1,5 @@
+services:
+  scheduler:
+    volumes:
+      - /Users/susansagwa/real-estate-pipeline/real_estate:/usr/local/airflow/dbt_project
+      - /Users/susansagwa/.snowflake/rsa_key.p8:/usr/local/airflow/keys/rsa_key.p8:ro

@@ -1,0 +1,13 @@
+real_estate:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: EGPPWSG-BM01264
+      user: DBT_USER
+      private_key_path: /usr/local/airflow/keys/rsa_key.p8
+      role: TRANSFORMER
+      warehouse: PIPELINE_WH
+      database: REAL_ESTATE
+      schema: STAGING
+      threads: 4
