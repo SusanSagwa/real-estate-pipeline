@@ -39,3 +39,9 @@ Known limitations
 
 The dataset is a static historical snapshot (2014 to 2015), so incremental loading is demonstrated by adding new files rather than a live feed.
 The deal finder uses price per square foot only and ignores condition, lot, and land value, so it is a screening tool, not a valuation.
+
+DASHBOARD RESULTS
+<img width="1710" height="919" alt="image" src="https://github.com/user-attachments/assets/bb3e03b1-1547-4b8f-b4db-19589ac61e83" />
+<img width="1710" height="584" alt="image" src="https://github.com/user-attachments/assets/308223a8-f722-4657-bf64-4a425ec42cbb" />
+
+
