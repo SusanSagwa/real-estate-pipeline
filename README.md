@@ -44,4 +44,9 @@ DASHBOARD RESULTS
 <img width="1710" height="919" alt="image" src="https://github.com/user-attachments/assets/bb3e03b1-1547-4b8f-b4db-19589ac61e83" />
 <img width="1710" height="584" alt="image" src="https://github.com/user-attachments/assets/308223a8-f722-4657-bf64-4a425ec42cbb" />
 
+AIRFLOW REAL ESTATE DATA PIPELINE(DAG)
+<img width="1710" height="993" alt="image" src="https://github.com/user-attachments/assets/7f7a0021-dee7-45a7-8892-7754208e9810" />
+
+
+
 
